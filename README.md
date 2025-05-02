@@ -21,9 +21,9 @@ Importante: Si estás utilizando Minikube con el driver de Docker (--driver=dock
 1. Clonar los repositorios
 Primero, clona los dos repositorios necesarios para este despliegue. Asegúrate de que ambos repositorios estén dentro de un directorio común:
 
-git clone https://github.com/Leovaldi/k8s-manifiestos.git
+git clone https://github.com/enzomiretti/K8S_Cloud_Computing.git
 
-git clone https://github.com/Leovaldi/static-website.git
+git clone https://github.com/enzomiretti/static-website.git
 
 2. Iniciar Minikube con volumen montado
    
